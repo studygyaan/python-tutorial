@@ -8,3 +8,9 @@ This tutorial is for Python Beginners and Experts. We tried you to provide you b
 In this Git repository you will find all the published codes and programs which were explained at StudyGyaan Website and Youtube Channel - https://www.youtube.com/ProfessionalCipher
 
 Hope these Programs and Codes will help you to learn python programming and for great explanation visit our website and youtube channel.
+
+
+### How to run Python Programs
+`python3 file_name.py`
+or
+`python file_name.py`
