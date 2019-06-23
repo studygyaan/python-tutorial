@@ -14,3 +14,6 @@ Hope these Programs and Codes will help you to learn python programming and for 
 `python3 file_name.py`
 or
 `python file_name.py`
+
+
+Example - `python3 python-factorial.py`
